@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianMaina01
+- 👋 Hi, I’m Brian Maina
 - 👀 I’m interested in data science,python and rust
 - 🌱 I’m currently learning python and go
 - 💞️ I’m looking to collaborate on ...
