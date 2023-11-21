@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brian Maina
+- 👋 Hi, my name is Brian Maina
 - 👀 I’m interested in data science and web development
 - 🌱 I’m currently learning python and go
 - 💞️ I’m looking to collaborate on ...
